@@ -6,7 +6,7 @@ import pydicom
 from io import BytesIO
 
 IMG_SIZE = (224, 224)
-MODEL_PATH = "MODEL_PATH = "best_model.keras""
+MODEL_PATH = "best_model.keras"
 
 st.set_page_config(
     page_title="Pneumonia Detection",
