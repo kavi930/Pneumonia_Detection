@@ -1,0 +1,6 @@
+Image Number,Actual Class,Predicted Class,Pneumonia Probability (%),No Pneumonia Probability (%),Correct
+1,No Pneumonia,No Pneumonia,31.78,68.22,True
+2,No Pneumonia,No Pneumonia,44.67,55.33,True
+3,Pneumonia,Pneumonia,51.57,48.43,True
+4,Pneumonia,No Pneumonia,47.76,52.24,False
+5,No Pneumonia,No Pneumonia,29.85,70.15,True
